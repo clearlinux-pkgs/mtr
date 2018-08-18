@@ -12,4 +12,5 @@ Configure miss: sys/limits.h presence
 Configure miss: sys/xti.h usability
 Configure miss: sys/xti.h presence
 Configure miss: sys/xti.h
+Configure miss: gtk+-2.0
 Configure miss: res_query
