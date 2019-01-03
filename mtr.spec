@@ -4,7 +4,7 @@
 #
 Name     : mtr
 Version  : 0.92
-Release  : 3
+Release  : 4
 URL      : https://github.com/traviscross/mtr/archive/v0.92.tar.gz
 Source0  : https://github.com/traviscross/mtr/archive/v0.92.tar.gz
 Summary  : No detailed summary available
