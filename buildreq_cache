@@ -1,4 +1,4 @@
-0.92
-pkgconfig(ncursesw)
-pkgconfig(ncurses)
+0.93
 gtk+-dev
+pkgconfig(ncurses)
+pkgconfig(ncursesw)
