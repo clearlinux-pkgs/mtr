@@ -1,4 +1,4 @@
-0.93
-gtk+-dev
+0.94
+ncurses-dev
 pkgconfig(ncurses)
 pkgconfig(ncursesw)
