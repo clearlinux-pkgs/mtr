@@ -4,7 +4,7 @@
 #
 Name     : mtr
 Version  : 0.94
-Release  : 7
+Release  : 8
 URL      : https://github.com/traviscross/mtr/archive/v0.94/mtr-0.94.tar.gz
 Source0  : https://github.com/traviscross/mtr/archive/v0.94/mtr-0.94.tar.gz
 Summary  : No detailed summary available
