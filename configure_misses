@@ -1,15 +1,5 @@
-Configure miss: cursesX.h usability
-Configure miss: cursesX.h presence
 Configure miss: cursesX.h
-Configure miss: ncurses/curses.h usability
-Configure miss: ncurses/curses.h presence
+Configure miss: gcc options needed to detect all undeclared functions
 Configure miss: ncurses/curses.h
-Configure miss: socket.h usability
-Configure miss: socket.h presence
 Configure miss: socket.h
-Configure miss: sys/limits.h usability
-Configure miss: sys/limits.h presence
-Configure miss: sys/xti.h usability
-Configure miss: sys/xti.h presence
 Configure miss: sys/xti.h
-Configure miss: res_query
