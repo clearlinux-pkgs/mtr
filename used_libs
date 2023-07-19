@@ -5,5 +5,4 @@ libgobject-2.0.so.0
 libgtk-3.so.0
 libjansson.so.4
 libm.so.6
-libncurses.so.6
-libtinfo.so.6
+libncursesw.so.6
